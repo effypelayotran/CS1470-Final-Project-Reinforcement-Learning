@@ -14,8 +14,11 @@ DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character
 7. Add Arena Obstacles and Generate HeightMap using CNNs that will be fed into PPO networks, if time permits. This allows Humanoid to learn how to generalize running through new arena obstacles. 
 
 
+
+
 **GitHub Main Repo**
-https://github.com/your-username/C++_Undergrad_Neural_Trainers
+- https://github.com/your-username/C++_Undergrad_Neural_Trainers. 
+- Our entire implementation is in the ```with_hip_rotation_render_script.ipynb``` notebook in this repo!
 
 **Our Other Resources Repo**
 - Our custom modified humanoid models: https://github.com/effypelayotran/mujoco_resources/tree/main/humanoid_CMU_folder 
