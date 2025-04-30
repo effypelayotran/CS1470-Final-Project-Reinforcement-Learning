@@ -1,6 +1,7 @@
 # C++_Undergrad_Neural_Trainers
 
 **Paper**
+
 DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (Peng et al., SIGGRAPH 2018)
 
 **Implementation Outline**
@@ -16,6 +17,6 @@ DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character
 **GitHub Main Repo**
 https://github.com/your-username/C++_Undergrad_Neural_Trainers
 
-**Resources Repo**
+**Our Other Resources Repo**
 - Our custom modified humanoid models: https://github.com/effypelayotran/mujoco_resources/tree/main/humanoid_CMU_folder 
 - Mujoco's models: https://github.com/google-deepmind/mujoco_menagerie/tree/main 
