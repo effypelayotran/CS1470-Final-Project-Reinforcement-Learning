@@ -4,6 +4,9 @@
 
 DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (Peng et al., SIGGRAPH 2018)
 
+**Final Results of our Implementation**
+See ```good_walk_.mp4``` to see our final DeepMimic Policy in Action!
+
 **Implementation Outline**
 1. Load and parse the humanoid XML into a Gym Env class that is comptabile with Stable Baselines 3
 2. Expose the State Space: joint quaternions, velocities, COM, phase variable
