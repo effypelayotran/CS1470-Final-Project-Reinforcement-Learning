@@ -1,4 +1,8 @@
-# C++_Undergrad_Neural_Trainers
+# CS1470 - Deep Learning Final Project 
+
+**Team** 
+C++_Undergrad_Neural_Trainers
+
 
 **Paper**
 
