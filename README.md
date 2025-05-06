@@ -1,12 +1,10 @@
 # CS1470 - Deep Learning Final Project 
 
-**Team** 
+**Team** :
 C++_Undergrad_Neural_Trainers
 
 
-**Paper**
-
-DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (Peng et al., SIGGRAPH 2018)
+**Paper** : DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (Peng et al., SIGGRAPH 2018)
 
 **Final Results of our Implementation**
 See ```good_walk_.mp4``` and ```good_walk_2.mp4``` to see our final DeepMimic Policy in Action!
