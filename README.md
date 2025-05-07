@@ -22,7 +22,7 @@ See ```good_walk_.mp4``` and ```good_walk_2.mp4``` to see our final DeepMimic Po
 
 
 **GitHub Main Repo**
-- https://github.com/your-username/C++_Undergrad_Neural_Trainers. 
+- https://github.com/effypelayotran/CS1470-Final-Project-Reinforcement-Learning 
 - Our entire implementation is in the ```with_hip_rotation_render_script.ipynb``` notebook in this repo!
 
 **Our Other Resources Repo**
